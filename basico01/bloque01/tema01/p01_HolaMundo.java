@@ -9,7 +9,7 @@ public class p01_HolaMundo {
 
 	// El método main, que indica donde empieza la ejecución
 
-	public static void main(String[] args) {
+	public static void main(String[] args) { 
 		//"main" es el metodo o funcion
 		//"String[]" es el parámetro
 
